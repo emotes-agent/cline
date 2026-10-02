@@ -28,6 +28,9 @@ The open source coding agent in your IDE, terminal, & desktop.
 <td align="center">
 <a href="https://cline.bot/join-us" target="_blank"><strong>Join us!</strong></a>
 </td>
+
+  [![Cline Agent](https://agentemotes.com/a/cline-bot.svg)](https://agentemotes.com/@cline-bot)
+
 </tbody>
 </table>
 </div>
